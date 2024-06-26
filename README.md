@@ -19,7 +19,7 @@ Welcome to the Pac-Man game project! This is a classic Pac-Man game implemented 
 ### Installation
 
 1. Clone the repository:
-   git clone [https://github.com/yourusername/pacman-game.git](https://github.com/Mohab-Sobhy/Pacman-Game.git)
+   git clone https://github.com/Mohab-Sobhy/Pacman-Game.git
 
 2. Open the project in Visual Studio (or your preferred IDE).
 
