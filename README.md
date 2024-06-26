@@ -10,6 +10,10 @@ Welcome to the Pac-Man game project! This is a classic Pac-Man game implemented 
 - **Collision Detection:** Accurate detection of collisions between Pac-Man, ghosts, and walls.
 - **Game Mechanics:** Classic gameplay elements including power pellets and ghost vulnerability.
 
+## Design
+
+![Class Diagram](https://github.com/Mohab-Sobhy/Pacman-Game/assets/132499733/defa0814-44fa-4e8e-b413-158421d9e0c5)
+
 ## Getting Started
 
 ### Prerequisites
