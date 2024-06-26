@@ -12,7 +12,9 @@ Welcome to the Pac-Man game project! This is a classic Pac-Man game implemented 
 
 ## Design
 
-![Class Diagram](https://github.com/Mohab-Sobhy/Pacman-Game/assets/132499733/defa0814-44fa-4e8e-b413-158421d9e0c5)
+<p align="center">
+  <img src="(https://github.com/Mohab-Sobhy/Pacman-Game/assets/132499733/defa0814-44fa-4e8e-b413-158421d9e0c5)" alt="Game Screenshot" width="400"/>
+</p>
 
 ## Getting Started
 
