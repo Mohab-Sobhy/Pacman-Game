@@ -26,17 +26,22 @@ Class Diagram:
 
 ### Installation
 
-1. Clone the repository:
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/Mohab-Sobhy/Pacman-Game.git
    ```
 
-2. Run this command in project directory to build the project
+2. **Navigate to the project directory:**
+   ```bash
+   cd /youtrPath/Pacman-Game
+   ```
+
+3. **Build the project:**
    ```bash
    dotnet build
    ```
-   
-3. Run this command to run the project
+
+4. **Run the project:**
    ```bash
    dotnet run
    ```
