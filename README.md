@@ -23,6 +23,7 @@ Class Diagram:
 ### Prerequisites
 
 - Visual Studio or any C# IDE
+- .NET SDK 8.0
 
 ### Installation
 
