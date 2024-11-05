@@ -22,7 +22,6 @@ Class Diagram:
 
 ### Prerequisites
 
-- Visual Studio or any C# IDE
 - .NET SDK 8.0
 
 ### Installation
@@ -32,9 +31,15 @@ Class Diagram:
    git clone https://github.com/Mohab-Sobhy/Pacman-Game.git
    ```
 
-2. Open the project in Visual Studio (or your preferred IDE).
-
-3. Build and run the project.
+2. Run this command in project directory to build the project
+   ```bash
+   dotnet build
+   ```
+   
+3. Run this command to run the project
+   ```bash
+   dotnet run
+   ```
 
 ### How to Play
 
