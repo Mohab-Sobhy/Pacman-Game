@@ -33,7 +33,7 @@ Class Diagram:
 
 2. **Navigate to the project directory:**
    ```bash
-   cd /youtrPath/Pacman-Game
+   cd /yourPath/Pacman-Game
    ```
 
 3. **Build the project:**
