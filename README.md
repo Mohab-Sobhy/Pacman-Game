@@ -22,7 +22,7 @@ Class Diagram:
 
 ### Prerequisites
 
-- .NET SDK 8.0
+- .NET SDK version 8.0 or later
 
 ### Installation
 
